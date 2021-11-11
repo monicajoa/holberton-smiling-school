@@ -6,8 +6,9 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 ## Here the final result:
 
-![image](file:///C:/Users/1658/Desktop/Captura1.PNG)
-![image](file:///C:/Users/1658/Desktop/Captura2.PNG)
+| Homepage | Pricing | Courses |
+| ------------ | ------------- | ------------- |
+|<img width="480" alt="figma-img" src="https://github.com/monicajoa/holberton-smiling-school/blob/master/homepage-figma.png?raw=true"> | <img width="480" alt="figma-img" src="https://github.com/monicajoa/holberton-smiling-school/blob/master/pricing-figma.png?raw=true"> | <img width="480" alt="figma-img" src="https://github.com/monicajoa/holberton-smiling-school/blob/master/courses-figma.png?raw=true"> | 
 
 ## Requirements
 
